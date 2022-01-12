@@ -1,0 +1,12 @@
+{
+	"Documentation"=["Bug reports", "Check Lists"],
+	"APITesting"="Postman",
+	"Terminal"="GitBush",
+	"Emulator"="AndroidStudio",
+	"TrafficSniffing"=["Charlies", "Fiddler"],
+	"DevTools"=["Google Chrome", "FireFox"],
+	"DataBase"="MySQL",
+	"StressTesting"="Jmeter"
+}
+
+
